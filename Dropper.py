@@ -8,3 +8,7 @@ class Dropper:
 
     def update(self):
         self.tick
+
+    def drop(self):
+
+	print("poo")
