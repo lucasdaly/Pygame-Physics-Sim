@@ -8,7 +8,7 @@ from Dropper import Dropper
 pg.init()
 
 # Set up display
-WIDTH, HEIGHT = 800, 600
+WIDTH, HEIGHT = 540, 960
 screen = pg.display.set_mode((WIDTH, HEIGHT))
 pg.display.set_caption("Physics Simulation")
 
